@@ -1,4 +1,3 @@
-This is a Portfolio website I've built about my work, Hosted on Github. Check it out..
 
 🔗**Run demo** 👇
 
